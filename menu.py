@@ -1,3 +1,4 @@
+#games
 import pygame 
 import shooter_game
 Windows = pygame.display.set_mode((700,500))
